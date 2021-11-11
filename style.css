@@ -1,0 +1,16 @@
+body{
+  background-color: #f5f5dc;
+  color: #a0522d;
+  font-family: tahoma;
+  font-size: 12px;
+}
+
+h1,h2.h3{
+  text-align: center;
+  color: #a0522d;
+}
+
+p{
+  text-align: justify;
+  color: #808000;
+}
